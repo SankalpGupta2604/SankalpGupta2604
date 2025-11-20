@@ -1,30 +1,21 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
   <div>
     <div align="center">
-        <a href="https://github.com/sg-2604"><img src="sankalp.png" height="400" /></a>
+        <a href="https://github.com/SankalpGupta2604"><img src="sankalp.png" height="400" /></a>
     </div>
     
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Read-me Typing ------------------------------------------------------------------------------------------------------------------------------>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
  
   <div align="center">
-        <a href="https://github.com/sg-2604"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankalp%2C;Web+Developer%2C;Problem+Solver%2C;Open+Source+Contributor%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://github.com/SankalpGupta2604"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankalp%2C;Web+Developer%2C;Problem+Solver%2C;Open+Source+Contributor%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 <h2 align="center">
         <samp>&gt; Hey There!, I am
@@ -44,21 +35,14 @@
 
   <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <p align="center"><a href="https://github.com/sg-2604"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ <p align="center"><a href="https://github.com/SankalpGupta2604"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
  
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Visitor Badge + Links ------------------------------------------------------------------------------------------------------------------------------>
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
  <h2 align="center">About Me 🚀</h2>
 <p align="center">
-  Hi! I'm <strong>Sankalp Gupta</strong>, a passionate Computer Science & Engineering student (B.Tech, 2022–2026) with a strong focus on <strong>Software Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Machine Learning</strong>.
+  Hi! I'm <strong>Sankalp Gupta</strong>, a passionate Computer Science & Engineering student with a strong focus on <strong>Software Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Machine Learning</strong>.
 </p>
 
 <ul>
@@ -69,15 +53,12 @@
   <li>🚀 Currently seeking opportunities for <strong>SDE roles</strong>, <strong>internships</strong>, and <strong>collaborative open-source projects</strong>.</li>
 </ul>
 
-<!-- Skill Set  -->
+
 <div align="center">
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
     <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
 </div>
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Tech Stack Table    ----------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -181,7 +162,7 @@
 
 
 
-<!-- Skill Set  (Programming Languages)  -->
+
 <div align="center">
     <h3><b>Programming Languages</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" height="40"/></a></code>&nbsp;
@@ -191,7 +172,7 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="JavaScript"  height="40"/></a></code>&nbsp;
 </div>
 
-<!-- Skill Set (Frontend)  -->
+
 <div align="center">
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
@@ -201,7 +182,6 @@
 </div>
 <br>
   
-<!-- Skill Set (L&F)  -->
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
@@ -217,15 +197,12 @@
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="google cloud" alt="google cloud" width="40" height="40"/> </a></code>&nbsp; -->
-<!--       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
         <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
   <code><a href="https://vercel.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Vercel_logo.svg" title="Vercel" alt="Vercel" height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp; -->
 </div>
 <br>
 
-<!-- Skill Set (Tools)  -->
+
 <div align="center">
     <h3><b>Tools</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
@@ -234,7 +211,7 @@
 </div>
 <br>
   
-<!-- Skill Set (Database)  -->
+
 <div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
