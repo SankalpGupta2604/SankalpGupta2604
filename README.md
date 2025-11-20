@@ -219,11 +219,3 @@
 </div>
 <br>
 <br>
-
-<hr>
-
-<div align="center">
-  
-<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/14hPTk6rZ62KjiYDH89xmpZtc93rqlkka/view?usp=sharing"> Resume </a> ❤️ for more information about my experience and skills.</h3>
-
-</div>
